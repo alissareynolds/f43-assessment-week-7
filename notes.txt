@@ -1,0 +1,4 @@
+insert 833.2481 ms
+append 3.1771 ms
+
+When the extraLargeArray is passed into both doubleApend and doubleInsert, the doubleApend function comes back faster.
