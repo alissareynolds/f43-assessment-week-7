@@ -1,4 +1,23 @@
+Results for extraLargeArray
 insert 833.2481 ms
 append 3.1771 ms
 
-When the extraLargeArray is passed into both doubleApend and doubleInsert, the doubleApend function comes back faster.
+Results for the largeArray
+insert 17.3031 ms
+append 831.8 μs
+
+Results for the mediumArray
+insert 529.3 μs
+append 375.7 μs
+
+Results for the smallArray
+insert 68.3 μs
+append 165.9 μs
+
+Results for the tinyArray
+insert 77.9 μs
+append 194.4 μs
+
+Refer to results-table.png to see the information in a table. 
+
+When the extraLargeArray is passed into both doubleApend and doubleInsert, the doubleApend function comes back faster
